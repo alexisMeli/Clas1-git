@@ -1,3 +1,3 @@
 archivoA-2 linea 1
-archivoA-2 linea 2
+archivoA-2 linea 2 modificada
 archivoA-2 linea 3
