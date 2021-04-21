@@ -1,4 +1,4 @@
 Hola archivo a
 
 2da Modificacion
-modificacion del equipo A
+modificacion del equipo A y Modificación del equipo B
